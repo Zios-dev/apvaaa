@@ -1,0 +1,140 @@
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.chevronBack1Icon,
+.textParent {
+  position: absolute;
+  top: 16px;
+  left: 9px;
+  width: 57px;
+  height: 57px;
+  overflow: hidden;
+}
+.textParent {
+  top: 138px;
+  left: 81px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-whitesmoke-200);
+  width: 79px;
+  height: 88px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+}
+.createShow1 {
+  position: absolute;
+  top: 23px;
+  left: 72px;
+  font-size: var(--font-size-13xl);
+}
+.logoYoutube1Icon,
+.textGroup {
+  position: absolute;
+  top: 25px;
+  left: 22px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.textGroup {
+  top: 138px;
+  left: 181px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 277px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.image4Icon {
+  position: absolute;
+  top: 27px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.blog,
+.discover,
+.home {
+  position: absolute;
+  top: 51px;
+  left: 185px;
+}
+.blog,
+.discover {
+  left: 284px;
+}
+.blog {
+  left: 410px;
+}
+.contactUs,
+.createShowChild {
+  position: absolute;
+  top: 51px;
+  left: 504px;
+}
+.createShowChild {
+  top: 336px;
+  left: 260px;
+  border-radius: var(--br-36xl);
+  width: 399px;
+  height: 352px;
+  overflow: hidden;
+}
+.createANew {
+  position: absolute;
+  top: 22px;
+  left: 45px;
+}
+.createANewProfileWrapper {
+  position: absolute;
+  top: 749px;
+  left: 297px;
+  border-radius: var(--br-lg);
+  background-color: #2ed972;
+  width: 317px;
+  height: 77px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.createShowItem {
+  position: absolute;
+  top: 336px;
+  left: 760px;
+  border-radius: var(--br-36xl);
+  width: 399px;
+  height: 352px;
+  overflow: hidden;
+}
+.importExistingShow {
+  position: absolute;
+  top: 22px;
+  left: 41px;
+}
+.importExistingShowWrapper {
+  position: absolute;
+  top: 749px;
+  left: 797px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gold);
+  width: 317px;
+  height: 77px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.createShow {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

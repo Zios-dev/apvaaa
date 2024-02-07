@@ -1,0 +1,179 @@
+.youCanStartContainer {
+  position: absolute;
+  top: 31px;
+  left: 53px;
+}
+.lockOpen1Icon,
+.unlockUnlimitedConversations {
+  position: absolute;
+  top: 17px;
+  left: 66px;
+}
+.lockOpen1Icon {
+  top: 18.5px;
+  left: 24.5px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.unlockUnlimitedConversationsParent {
+  position: absolute;
+  top: 15px;
+  left: 1055px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gold);
+  width: 336px;
+  height: 56px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+}
+.youCanStart10MoreConversaParent {
+  position: absolute;
+  top: 128px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 1440px;
+  height: 87px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+}
+.image4Icon {
+  position: absolute;
+  top: 35px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.searchByName {
+  position: absolute;
+  top: 22px;
+  left: 78px;
+}
+.search1Icon,
+.searchByNameParent {
+  position: absolute;
+  top: 21px;
+  left: 28px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.searchByNameParent {
+  top: 277px;
+  left: 315px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-whitesmoke-300);
+  width: 1093px;
+  height: 75px;
+  font-size: var(--font-size-5xl);
+  color: #979799;
+}
+.messagingAmico1Icon {
+  position: absolute;
+  top: 410px;
+  left: 602px;
+  width: 385px;
+  height: 385px;
+  overflow: hidden;
+}
+.noConversationSelected {
+  position: absolute;
+  top: 869px;
+  left: 603px;
+  font-size: var(--font-size-17xl);
+}
+.discover,
+.home {
+  position: absolute;
+  top: 59px;
+  left: 185px;
+}
+.discover {
+  left: 284px;
+}
+.allMessages0,
+.blog,
+.contactUs {
+  position: absolute;
+  top: 59px;
+  left: 410px;
+}
+.allMessages0,
+.contactUs {
+  left: 504px;
+}
+.allMessages0 {
+  top: 19px;
+  left: 34px;
+}
+.allMessages0Wrapper,
+.unreadMessages0Wrapper {
+  position: absolute;
+  left: 0;
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.allMessages0Wrapper {
+  top: 208px;
+  background-color: var(--color-ivory);
+  border-right: 8px solid var(--color-gold);
+  box-sizing: border-box;
+}
+.unreadMessages0Wrapper {
+  top: 308px;
+  background-color: var(--color-white);
+}
+.inboxes,
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.inboxes {
+  top: 20px;
+  left: 78px;
+  font-size: var(--font-size-17xl);
+}
+.mailOpen1Icon,
+.textParent {
+  position: absolute;
+  top: 27px;
+  left: 24px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.textParent {
+  top: 46px;
+  left: 26px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 234px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.frameParent,
+.inbox {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.frameParent {
+  position: absolute;
+  top: 227px;
+  left: 0;
+  box-shadow: 8px 4px 4px rgba(0, 0, 0, 0.02);
+  width: 287px;
+  height: 797px;
+  font-size: var(--font-size-5xl);
+}
+.inbox {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

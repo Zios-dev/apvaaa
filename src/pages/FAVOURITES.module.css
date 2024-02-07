@@ -1,0 +1,238 @@
+.image4Icon {
+  position: absolute;
+  top: 27px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.discover,
+.home {
+  position: absolute;
+  top: 51px;
+  left: 185px;
+}
+.discover {
+  left: 284px;
+}
+.blog,
+.contactUs,
+.sortByLast {
+  position: absolute;
+  top: 51px;
+  left: 410px;
+}
+.contactUs,
+.sortByLast {
+  left: 504px;
+}
+.sortByLast {
+  top: 136px;
+  left: 332px;
+  font-size: var(--font-size-lg);
+  color: #878789;
+}
+.fatimaFatima {
+  position: absolute;
+  top: 24px;
+  left: 107px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.lagosNigeria {
+  position: absolute;
+  top: 52px;
+  left: 107px;
+}
+.arts,
+.interests {
+  position: absolute;
+  left: 407px;
+}
+.interests {
+  top: 24px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.arts {
+  top: 52px;
+}
+.frameChild,
+.lastSeen2 {
+  position: absolute;
+  top: 40px;
+  left: 859px;
+}
+.frameChild {
+  top: 34px;
+  left: 1043px;
+  border-radius: var(--br-7xs);
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.frameItem {
+  position: absolute;
+  top: 46px;
+  left: 839px;
+  border-radius: 50%;
+  background-color: var(--color-lightcoral);
+  width: 11px;
+  height: 11px;
+}
+.fatimaFatimaParent {
+  position: absolute;
+  top: 191px;
+  left: 315px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lemonchiffon);
+  box-sizing: border-box;
+  width: 1093px;
+  height: 100px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+}
+.ellipseDiv,
+.online {
+  position: absolute;
+  top: 40px;
+  left: 969px;
+}
+.ellipseDiv {
+  top: 46px;
+  left: 949px;
+  border-radius: 50%;
+  background-color: #76f58a;
+  width: 11px;
+  height: 11px;
+}
+.image5Icon {
+  position: absolute;
+  top: 13px;
+  left: 14px;
+  border-radius: var(--br-5xs);
+  width: 74px;
+  height: 75px;
+  object-fit: cover;
+}
+.johnEmmanuelParent {
+  position: absolute;
+  top: 321px;
+  left: 315px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lemonchiffon);
+  box-sizing: border-box;
+  width: 1093px;
+  height: 100px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+}
+.image5Icon1 {
+  position: absolute;
+  top: 203px;
+  left: 328px;
+  border-radius: var(--br-5xs);
+  width: 74px;
+  height: 75px;
+  object-fit: cover;
+}
+.allProfiles {
+  position: absolute;
+  top: 19px;
+  left: 89px;
+}
+.allProfilesWrapper {
+  position: absolute;
+  top: 208px;
+  left: 0;
+  background-color: var(--color-ivory);
+  border-right: 8px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.guests,
+.guestsWrapper {
+  position: absolute;
+  top: 19px;
+  left: 108px;
+}
+.guestsWrapper {
+  top: 308px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.shows,
+.showsWrapper {
+  position: absolute;
+  top: 19px;
+  left: 110px;
+}
+.showsWrapper {
+  top: 408px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.favourites1,
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.favourites1 {
+  top: 23px;
+  left: 72px;
+  font-size: var(--font-size-13xl);
+}
+.heart1Icon,
+.textParent {
+  position: absolute;
+  top: 27px;
+  left: 20px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.textParent {
+  top: 34px;
+  left: 21px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 246px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.favourites,
+.frameParent {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.frameParent {
+  position: absolute;
+  top: 104px;
+  left: 0;
+  box-shadow: 8px 4px 4px rgba(0, 0, 0, 0.02);
+  width: 287px;
+  height: 920px;
+  font-size: var(--font-size-5xl);
+}
+.favourites {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

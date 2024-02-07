@@ -1,0 +1,250 @@
+.myShows,
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.myShows {
+  top: 23px;
+  left: 72px;
+  font-size: var(--font-size-13xl);
+}
+.logoYoutube1Icon,
+.textParent {
+  position: absolute;
+  top: 25px;
+  left: 22px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+}
+.textParent {
+  top: 138px;
+  left: 91px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 246px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.image4Icon {
+  position: absolute;
+  top: 27px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.blog,
+.contactUs,
+.discover,
+.home {
+  position: absolute;
+  top: 51px;
+  left: 185px;
+  font-size: var(--font-size-base-2);
+}
+.blog,
+.contactUs,
+.discover {
+  left: 284px;
+}
+.blog,
+.contactUs {
+  left: 410px;
+}
+.contactUs {
+  left: 504px;
+}
+.myPodcast {
+  position: absolute;
+  top: 272.8px;
+  left: 113.6px;
+  color: var(--color-black);
+}
+.arts,
+.category,
+.image7Icon {
+  position: absolute;
+  top: 344.4px;
+}
+.category {
+  left: 21.5px;
+  color: var(--color-dimgray-300);
+}
+.arts,
+.image7Icon {
+  left: 262.1px;
+}
+.image7Icon {
+  top: 18.8px;
+  left: 35.8px;
+  border-radius: 17.21px;
+  width: 250.4px;
+  height: 223.6px;
+  object-fit: cover;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  max-height: 100%;
+}
+.frameChild {
+  top: 315.8px;
+  left: 29.5px;
+  border-radius: 19.68px;
+  width: 262.1px;
+}
+.frameItem {
+  top: 358.7px;
+  left: 110.9px;
+  width: 132.4px;
+}
+.abakilikiNigeria {
+  position: absolute;
+  top: 376.6px;
+  left: 204.8px;
+  display: inline-block;
+  text-align: right;
+  width: 95.7px;
+}
+.frameInner {
+  position: absolute;
+  top: 391.8px;
+  left: 67.1px;
+  max-height: 100%;
+  width: 134.2px;
+}
+.location1Icon {
+  position: absolute;
+  top: 380.1px;
+  left: 21.5px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.edit,
+.editParent,
+.pencil1Icon {
+  position: absolute;
+  top: 11.6px;
+  left: 57.2px;
+}
+.editParent,
+.pencil1Icon {
+  left: 29.5px;
+  width: 23.3px;
+  height: 23.3px;
+  overflow: hidden;
+}
+.editParent {
+  top: 463.3px;
+  left: 25px;
+  border-radius: 12.52px;
+  background-color: var(--color-aliceblue);
+  width: 127px;
+  height: 46.5px;
+  color: var(--color-mediumblue);
+}
+.delete {
+  position: absolute;
+  top: 11.6px;
+  left: 51.9px;
+  display: inline-block;
+  width: 56.3px;
+}
+.deleteParent,
+.trash1Icon {
+  position: absolute;
+  top: 11.6px;
+  left: 25px;
+  width: 23.6px;
+  height: 23.6px;
+  overflow: hidden;
+}
+.deleteParent {
+  top: 463.3px;
+  left: 169.9px;
+  border-radius: 12.52px;
+  background-color: var(--color-mistyrose);
+  width: 127px;
+  height: 46.5px;
+  color: var(--color-red);
+}
+.frameDiv,
+.myPodcastContainer,
+.myPodcastGroup,
+.myPodcastParent,
+.myPodcastParent1,
+.myPodcastParent2 {
+  position: absolute;
+  top: 278.7px;
+  left: 92px;
+  border-radius: 35.33px;
+  background-color: var(--color-white);
+  box-shadow: 8px 14.3px 12.52px rgba(0, 0, 0, 0.02);
+  width: 322px;
+  height: 542.9px;
+  overflow: hidden;
+}
+.frameDiv,
+.myPodcastContainer,
+.myPodcastGroup,
+.myPodcastParent1,
+.myPodcastParent2 {
+  left: 510.1px;
+}
+.frameDiv,
+.myPodcastContainer,
+.myPodcastParent1,
+.myPodcastParent2 {
+  left: 927px;
+}
+.frameDiv,
+.myPodcastParent1,
+.myPodcastParent2 {
+  top: 903.2px;
+  left: 92px;
+}
+.myPodcastParent1,
+.myPodcastParent2 {
+  left: 510.1px;
+}
+.myPodcastParent2 {
+  left: 927px;
+}
+.createShow {
+  position: absolute;
+  top: 15px;
+  left: 46px;
+}
+.add1Icon,
+.createShowParent {
+  position: absolute;
+  top: 13px;
+  left: 9px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.createShowParent {
+  top: 154px;
+  left: 1220px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gold);
+  width: 161px;
+  height: 56px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+}
+.shows {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1551px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid-9);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

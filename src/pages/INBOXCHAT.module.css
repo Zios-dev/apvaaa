@@ -1,0 +1,256 @@
+.image4Icon {
+  position: absolute;
+  top: 35px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 59px;
+  left: 185px;
+}
+.blog,
+.contactUs,
+.discover,
+.text {
+  position: absolute;
+  top: 59px;
+  left: 284px;
+}
+.blog,
+.contactUs,
+.text {
+  left: 410px;
+}
+.contactUs,
+.text {
+  left: 504px;
+}
+.text {
+  top: 57px;
+  left: 9px;
+}
+.chevronBack1Icon {
+  top: 16px;
+  left: 9px;
+  width: 57px;
+  height: 57px;
+}
+.chevronBack1Icon,
+.frameChild,
+.textParent {
+  position: absolute;
+  overflow: hidden;
+}
+.textParent {
+  top: 20px;
+  left: 26px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-whitesmoke-200);
+  width: 79px;
+  height: 88px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+}
+.frameChild {
+  top: 31px;
+  left: 522px;
+  border-radius: var(--br-341xl);
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.oyoNigeria {
+  position: absolute;
+  top: 181px;
+  left: 501px;
+  color: var(--color-dimgray-100);
+}
+.frameItem {
+  position: absolute;
+  top: 249px;
+  left: 0;
+  border-radius: var(--br-3xl);
+  max-height: 100%;
+  width: 1153px;
+}
+.frameInner {
+  position: absolute;
+  top: 298px;
+  left: 855px;
+  border-radius: var(--br-29xl) var(--br-29xl) var(--br-29xl) 0;
+  width: 227.2px;
+  height: 83.2px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.seen225pm {
+  position: absolute;
+  top: 391px;
+  left: 973px;
+  font-size: var(--font-size-lg);
+  line-height: 16.58px;
+  color: var(--color-dimgray-200);
+}
+.frameChild1,
+.frameIcon {
+  position: absolute;
+  top: 353px;
+  left: 1093px;
+  border-radius: var(--br-133xl);
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frameChild1 {
+  top: 522px;
+  left: 27px;
+}
+.imOkayHows {
+  position: absolute;
+  top: 24.4px;
+  left: 35.6px;
+  line-height: 28.8px;
+  display: inline-block;
+  width: 278.4px;
+}
+.imOkayHowsYourDayGoingWrapper {
+  position: absolute;
+  top: 444px;
+  left: 76px;
+  border-radius: var(--br-19xl-4) var(--br-19xl-4) var(--br-19xl-4) 0;
+  background-color: var(--color-lemonchiffon);
+  width: 348.8px;
+  height: 104px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl-4);
+  color: var(--color-dimgray-200);
+}
+.typeAMessage {
+  position: absolute;
+  top: 25px;
+  left: 21px;
+  line-height: 18px;
+  display: inline-block;
+  width: 179px;
+  height: 25px;
+}
+.typeAMessageWrapper {
+  top: 34px;
+  left: 38px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 966px;
+  height: 62px;
+}
+.frameChild2,
+.frameGroup,
+.typeAMessageWrapper {
+  position: absolute;
+  overflow: hidden;
+}
+.frameChild2 {
+  top: 34px;
+  left: 1030px;
+  border-radius: 13.94px;
+  width: 72px;
+  height: 61.5px;
+}
+.frameGroup {
+  top: 741px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  border-top: 1px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 1153px;
+  height: 207px;
+  color: #817e7e;
+}
+.emmanuelJohnson,
+.frameParent {
+  position: absolute;
+  top: 142px;
+  left: 468px;
+}
+.frameParent {
+  top: 127px;
+  left: 287px;
+  background-color: #fcfcfc;
+  width: 1153px;
+  height: 948px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+}
+.allMessages0 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+}
+.allMessages0Wrapper,
+.unreadMessages0Wrapper {
+  position: absolute;
+  left: 0;
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.allMessages0Wrapper {
+  top: 208px;
+  background-color: var(--color-ivory);
+  border-right: 8px solid var(--color-gold);
+  box-sizing: border-box;
+}
+.unreadMessages0Wrapper {
+  top: 308px;
+  background-color: var(--color-white);
+}
+.inboxes {
+  position: absolute;
+  top: 20px;
+  left: 78px;
+  font-size: var(--font-size-17xl);
+}
+.mailOpen1Icon,
+.textGroup {
+  position: absolute;
+  top: 27px;
+  left: 24px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.textGroup {
+  top: 46px;
+  left: 26px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 234px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.frameContainer,
+.inboxChat {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.frameContainer {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  box-shadow: 8px 4px 4px rgba(0, 0, 0, 0.02);
+  width: 287px;
+  height: 797px;
+  font-size: var(--font-size-5xl);
+}
+.inboxChat {
+  width: 100%;
+  position: relative;
+  height: 1075px;
+  text-align: left;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

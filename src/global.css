@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Khula:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-khula: Khula;
+
+  /* font sizes */
+  --font-size-17xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+  --font-size-base-2: 16.2px;
+  --font-size-lg: 18px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-mid-9: 17.9px;
+  --font-size-4xl-5: 23.5px;
+  --font-size-19xl-9: 38.9px;
+  --font-size-11xl: 30px;
+  --font-size-2xl: 21px;
+  --font-size-3xl-4: 22.4px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-whitesmoke-100: #f9f9f9;
+  --color-whitesmoke-200: #f8f9fb;
+  --color-whitesmoke-300: #f8f8f8;
+  --color-whitesmoke-400: #f8f7f7;
+  --color-gray-100: #918c8c;
+  --color-gray-200: #100f32;
+  --color-ivory: #fffbea;
+  --color-gold: #f1c40f;
+  --color-lemonchiffon: #fff3c1;
+  --color-dimgray-100: #656472;
+  --color-dimgray-200: #635e5e;
+  --color-dimgray-300: #5f5f61;
+  --color-black: #000;
+  --color-lightcoral: #f57676;
+  --color-mistyrose: #ffe6e6;
+  --color-red: #fa2d2d;
+  --color-aliceblue: #e9f3fd;
+  --color-mediumblue: #2626cf;
+
+  /* Border radiuses */
+  --br-5xl: 24px;
+  --br-3xl: 22px;
+  --br-lg: 18px;
+  --br-5xs: 8px;
+  --br-xs: 12px;
+  --br-7xs: 6px;
+  --br-16xl-3: 35.3px;
+  --br-lgi-7: 19.7px;
+  --br-mid-2: 17.2px;
+  --br-smi-5: 12.5px;
+  --br-7xl-2: 26.2px;
+  --br-36xl: 55px;
+  --br-3xs: 10px;
+  --br-11xs-8: 1.8px;
+  --br-sm: 14px;
+  --br-19xl-4: 38.4px;
+  --br-133xl: 152px;
+  --br-29xl: 48px;
+  --br-341xl: 360px;
+}

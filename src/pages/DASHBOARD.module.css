@@ -1,0 +1,374 @@
+.dashboard1,
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.dashboard1 {
+  top: 23px;
+  left: 72px;
+  font-size: var(--font-size-13xl);
+}
+.grid1Icon,
+.textParent {
+  position: absolute;
+  top: 27px;
+  left: 20px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.textParent {
+  top: 138px;
+  left: 91px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 257px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.image4Icon {
+  position: absolute;
+  top: 27px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.blog,
+.contactUs,
+.discover,
+.home {
+  position: absolute;
+  top: 51px;
+  left: 185px;
+  font-size: var(--font-size-base-2);
+}
+.blog,
+.contactUs,
+.discover {
+  left: 284px;
+}
+.blog,
+.contactUs {
+  left: 410px;
+}
+.contactUs {
+  left: 504px;
+}
+.showRecommendations,
+.shows {
+  position: absolute;
+  top: 275px;
+  left: 91px;
+  font-size: var(--font-size-11xl);
+}
+.showRecommendations {
+  top: 972px;
+}
+.myPodcast {
+  position: absolute;
+  top: 1418px;
+  left: 178px;
+  color: var(--color-black);
+}
+.abakilikiNigeria {
+  position: absolute;
+  top: 1478px;
+  left: 185px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image7Icon {
+  position: absolute;
+  top: 1051px;
+  left: 91px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.myPodcast1 {
+  position: absolute;
+  top: 1418px;
+  left: 616px;
+  color: var(--color-black);
+}
+.abakilikiNigeria1 {
+  position: absolute;
+  top: 1478px;
+  left: 623px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image8Icon {
+  position: absolute;
+  top: 1051px;
+  left: 529px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.myPodcast2 {
+  position: absolute;
+  top: 1418px;
+  left: 1054px;
+  color: var(--color-black);
+}
+.abakilikiNigeria2 {
+  position: absolute;
+  top: 1478px;
+  left: 1061px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image9Icon {
+  position: absolute;
+  top: 1051px;
+  left: 967px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.myPodcast3 {
+  position: absolute;
+  top: 1969px;
+  left: 178px;
+  color: var(--color-black);
+}
+.abakilikiNigeria3 {
+  position: absolute;
+  top: 2029px;
+  left: 185px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image10Icon {
+  position: absolute;
+  top: 1602px;
+  left: 91px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.myPodcast4 {
+  position: absolute;
+  top: 1969px;
+  left: 616px;
+  color: var(--color-black);
+}
+.abakilikiNigeria4 {
+  position: absolute;
+  top: 2029px;
+  left: 623px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image11Icon {
+  position: absolute;
+  top: 1602px;
+  left: 529px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.myPodcast5 {
+  position: absolute;
+  top: 1969px;
+  left: 1054px;
+  color: var(--color-black);
+}
+.abakilikiNigeria5 {
+  position: absolute;
+  top: 2029px;
+  left: 1061px;
+  font-size: var(--font-size-4xl-5);
+  color: var(--color-dimgray-100);
+  text-align: right;
+  display: inline-block;
+  width: 176px;
+}
+.image12Icon {
+  position: absolute;
+  top: 1602px;
+  left: 967px;
+  border-radius: 26.24px;
+  width: 382px;
+  height: 341.1px;
+  object-fit: cover;
+}
+.category,
+.myPodcast6 {
+  position: absolute;
+  top: 272.8px;
+  left: 113.6px;
+  color: var(--color-black);
+}
+.category {
+  top: 344.4px;
+  left: 21.5px;
+  color: var(--color-dimgray-300);
+}
+.arts,
+.image7Icon1 {
+  position: absolute;
+  top: 344.4px;
+  left: 262.1px;
+}
+.image7Icon1 {
+  top: 18.8px;
+  left: 35.8px;
+  border-radius: 17.21px;
+  width: 250.4px;
+  height: 223.6px;
+  object-fit: cover;
+}
+.frameChild,
+.frameItem {
+  position: absolute;
+  max-height: 100%;
+}
+.frameChild {
+  top: 315.8px;
+  left: 29.5px;
+  border-radius: 19.68px;
+  width: 262.1px;
+}
+.frameItem {
+  top: 358.7px;
+  left: 110.9px;
+  width: 132.4px;
+}
+.abakilikiNigeria6 {
+  position: absolute;
+  top: 376.6px;
+  left: 204.8px;
+  display: inline-block;
+  text-align: right;
+  width: 95.7px;
+}
+.frameInner {
+  position: absolute;
+  top: 391.8px;
+  left: 67.1px;
+  max-height: 100%;
+  width: 134.2px;
+}
+.location1Icon {
+  position: absolute;
+  top: 380.1px;
+  left: 21.5px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.edit,
+.editParent,
+.pencil1Icon {
+  position: absolute;
+  top: 11.6px;
+  left: 57.2px;
+}
+.editParent,
+.pencil1Icon {
+  left: 29.5px;
+  width: 23.3px;
+  height: 23.3px;
+  overflow: hidden;
+}
+.editParent {
+  top: 463.3px;
+  left: 25px;
+  border-radius: 12.52px;
+  background-color: var(--color-aliceblue);
+  width: 127px;
+  height: 46.5px;
+  color: var(--color-mediumblue);
+}
+.delete {
+  position: absolute;
+  top: 11.6px;
+  left: 51.9px;
+  display: inline-block;
+  width: 56.3px;
+}
+.deleteParent,
+.trash1Icon {
+  position: absolute;
+  top: 11.6px;
+  left: 25px;
+  width: 23.6px;
+  height: 23.6px;
+  overflow: hidden;
+}
+.deleteParent {
+  top: 463.3px;
+  left: 169.9px;
+  border-radius: 12.52px;
+  background-color: var(--color-mistyrose);
+  width: 127px;
+  height: 46.5px;
+  color: var(--color-red);
+}
+.myPodcastGroup,
+.myPodcastParent {
+  position: absolute;
+  top: 349px;
+  border-radius: 35.33px;
+  box-shadow: 8px 14.3px 12.52px rgba(0, 0, 0, 0.02);
+  width: 322px;
+  height: 542.9px;
+  font-size: var(--font-size-mid-9);
+}
+.myPodcastParent {
+  left: 91px;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.myPodcastGroup {
+  left: 559px;
+}
+.dashboard,
+.myPodcastContainer,
+.myPodcastGroup {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.myPodcastContainer {
+  position: absolute;
+  top: 349px;
+  left: 1027px;
+  border-radius: 35.33px;
+  box-shadow: 8px 14.3px 12.52px rgba(0, 0, 0, 0.02);
+  width: 322px;
+  height: 542.9px;
+  font-size: var(--font-size-mid-9);
+}
+.dashboard {
+  width: 100%;
+  position: relative;
+  height: 2185px;
+  text-align: left;
+  font-size: var(--font-size-19xl-9);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

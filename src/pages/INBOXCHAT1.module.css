@@ -1,0 +1,172 @@
+.image4Icon {
+  position: absolute;
+  top: 41px;
+  left: 55px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.discover,
+.home {
+  position: absolute;
+  top: 59px;
+  left: 185px;
+}
+.discover {
+  left: 284px;
+}
+.blog,
+.contactUs,
+.frameChild {
+  position: absolute;
+  top: 59px;
+  left: 410px;
+}
+.contactUs,
+.frameChild {
+  left: 504px;
+}
+.frameChild {
+  top: 25px;
+  left: 40px;
+  border-radius: var(--br-341xl);
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.imOkayHows,
+.m {
+  position: absolute;
+  top: 80px;
+  left: 161px;
+  line-height: 28.8px;
+  display: inline-block;
+  width: 407px;
+}
+.m {
+  top: 54px;
+  left: 1019px;
+  width: 52px;
+}
+.emmanuelJohnson {
+  top: 38px;
+  left: 160px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.emmanuelJohnson,
+.frameParent,
+.h {
+  position: absolute;
+}
+.frameParent {
+  top: 187px;
+  left: 315px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1093px;
+  height: 131px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-3xl-4);
+  color: var(--color-dimgray-200);
+}
+.h {
+  top: 54px;
+  left: 1028px;
+  line-height: 28.8px;
+  display: inline-block;
+  width: 43px;
+}
+.frameContainer,
+.frameGroup {
+  position: absolute;
+  top: 344px;
+  left: 315px;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1093px;
+  height: 131px;
+  overflow: hidden;
+  font-size: var(--font-size-3xl-4);
+  color: var(--color-dimgray-200);
+}
+.frameContainer {
+  top: 501px;
+}
+.allMessages0 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+}
+.allMessages0Wrapper,
+.unreadMessages0Wrapper {
+  position: absolute;
+  left: 0;
+  width: 287px;
+  height: 71px;
+  overflow: hidden;
+}
+.allMessages0Wrapper {
+  top: 208px;
+  background-color: var(--color-ivory);
+  border-right: 8px solid var(--color-gold);
+  box-sizing: border-box;
+}
+.unreadMessages0Wrapper {
+  top: 308px;
+  background-color: var(--color-white);
+}
+.inboxes,
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.inboxes {
+  top: 20px;
+  left: 78px;
+  font-size: var(--font-size-17xl);
+}
+.mailOpen1Icon,
+.textParent {
+  position: absolute;
+  top: 27px;
+  left: 24px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+.textParent {
+  top: 46px;
+  left: 26px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 234px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.frameDiv,
+.inboxChat {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.frameDiv {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  box-shadow: 8px 4px 4px rgba(0, 0, 0, 0.02);
+  width: 287px;
+  height: 797px;
+  font-size: var(--font-size-5xl);
+}
+.inboxChat {
+  width: 100%;
+  position: relative;
+  height: 1075px;
+  text-align: left;
+  font-size: var(--font-size-base-2);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}

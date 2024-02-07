@@ -1,0 +1,533 @@
+.image4Icon {
+  position: absolute;
+  top: 27px;
+  left: 46px;
+  width: 114px;
+  height: 68.8px;
+  object-fit: cover;
+}
+.blog,
+.contactUs,
+.discover,
+.home {
+  position: absolute;
+  top: 51px;
+  left: 185px;
+  font-size: var(--font-size-base-2);
+}
+.blog,
+.contactUs,
+.discover {
+  left: 284px;
+}
+.blog,
+.contactUs {
+  left: 410px;
+}
+.contactUs {
+  left: 504px;
+}
+.asAFreePlanUserYouAreA {
+  margin: 0;
+}
+.asAFreeContainer,
+.cautionThisAction {
+  position: absolute;
+  left: 397px;
+  display: inline-block;
+}
+.asAFreeContainer {
+  top: 292px;
+  color: #626269;
+  white-space: pre-wrap;
+  width: 950px;
+}
+.cautionThisAction {
+  top: 712px;
+  color: var(--color-red);
+  width: 992px;
+}
+.dangerZone,
+.subscriptionPlanFree {
+  position: absolute;
+  top: 237px;
+  left: 397px;
+  font-size: var(--font-size-11xl);
+}
+.dangerZone {
+  top: 657px;
+}
+.upgradeToPro {
+  position: absolute;
+  top: 17px;
+  left: 34px;
+}
+.upgradeToProWrapper {
+  position: absolute;
+  top: 482px;
+  left: 397px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gold);
+  width: 188px;
+  height: 56px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+}
+.deleteThisAccount {
+  position: absolute;
+  top: 17px;
+  left: 37px;
+}
+.deleteThisAccountWrapper {
+  position: absolute;
+  top: 822px;
+  left: 397px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-red);
+  width: 226px;
+  height: 56px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.accountSettingsChild {
+  position: absolute;
+  top: 612.5px;
+  left: 389.6px;
+  border-radius: 19.68px;
+  max-height: 100%;
+  width: 1019.7px;
+}
+.bookingSettings,
+.myAvailability {
+  position: absolute;
+  top: 1457px;
+  left: 397px;
+  font-size: var(--font-size-11xl);
+}
+.bookingSettings {
+  top: 1057px;
+}
+.monday {
+  position: absolute;
+  top: 1556px;
+  left: 439px;
+}
+.accountSettingsItem {
+  position: absolute;
+  top: 972.5px;
+  left: 389.6px;
+  border-radius: 19.68px;
+  max-height: 100%;
+  width: 1019.7px;
+}
+.checkboxOutline1Icon {
+  position: absolute;
+  top: 1559px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.div,
+.frameChild {
+  position: absolute;
+  top: 13px;
+  left: 24px;
+}
+.frameChild {
+  top: 21px;
+  left: 98px;
+  border-radius: 1.84px;
+  width: 23px;
+  height: 16px;
+  object-fit: contain;
+}
+.parent {
+  position: absolute;
+  top: 1545px;
+  left: 600px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  width: 137px;
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.frameItem {
+  position: absolute;
+  top: 21px;
+  left: 278px;
+  border-radius: 1.84px;
+  width: 23px;
+  height: 16px;
+  object-fit: contain;
+}
+.group,
+.utcParent {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.utcParent {
+  position: absolute;
+  top: 1297px;
+  left: 406px;
+  width: 324px;
+}
+.group {
+  top: 1545px;
+  left: 800px;
+  width: 136px;
+}
+.group,
+.to,
+.tuesday {
+  position: absolute;
+}
+.to {
+  top: 1558px;
+  left: 757px;
+  color: var(--color-gray-100);
+}
+.tuesday {
+  top: 1636px;
+  left: 439px;
+}
+.checkboxOutline2Icon {
+  position: absolute;
+  top: 1639px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.container,
+.frameDiv {
+  top: 1625px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.container {
+  position: absolute;
+  left: 600px;
+  width: 137px;
+}
+.frameDiv {
+  left: 800px;
+  width: 136px;
+}
+.frameDiv,
+.to1,
+.wednesday {
+  position: absolute;
+}
+.to1 {
+  top: 1638px;
+  left: 757px;
+  color: var(--color-gray-100);
+}
+.wednesday {
+  top: 1716px;
+  left: 439px;
+}
+.checkboxOutline3Icon {
+  position: absolute;
+  top: 1719px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.parent1,
+.parent2 {
+  top: 1705px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.parent1 {
+  position: absolute;
+  left: 600px;
+  width: 137px;
+}
+.parent2 {
+  left: 800px;
+  width: 136px;
+}
+.parent2,
+.thursday,
+.to2 {
+  position: absolute;
+}
+.to2 {
+  top: 1718px;
+  left: 757px;
+  color: var(--color-gray-100);
+}
+.thursday {
+  top: 1796px;
+  left: 439px;
+}
+.checkboxOutline4Icon {
+  position: absolute;
+  top: 1799px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.parent3,
+.parent4 {
+  top: 1785px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.parent3 {
+  position: absolute;
+  left: 600px;
+  width: 137px;
+}
+.parent4 {
+  left: 800px;
+  width: 136px;
+}
+.friday,
+.parent4,
+.to3 {
+  position: absolute;
+}
+.to3 {
+  top: 1798px;
+  left: 757px;
+  color: var(--color-gray-100);
+}
+.friday {
+  top: 1876px;
+  left: 439px;
+}
+.checkboxOutline5Icon {
+  position: absolute;
+  top: 1879px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.parent5,
+.parent6 {
+  top: 1865px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.parent5 {
+  position: absolute;
+  left: 600px;
+  width: 137px;
+}
+.parent6 {
+  left: 800px;
+  width: 136px;
+}
+.parent6,
+.saturday,
+.to4 {
+  position: absolute;
+}
+.to4 {
+  top: 1878px;
+  left: 757px;
+  color: var(--color-gray-100);
+}
+.saturday {
+  top: 1956px;
+  left: 439px;
+}
+.checkboxOutline6Icon {
+  position: absolute;
+  top: 1959px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.vectorIcon {
+  position: absolute;
+  top: 2042.1px;
+  left: 400.3px;
+  width: 19.5px;
+  height: 20.8px;
+}
+.unavailable {
+  position: absolute;
+  top: 13px;
+  left: 99px;
+}
+.unavailableWrapper {
+  position: absolute;
+  top: 1945px;
+  left: 600px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  width: 320px;
+  height: 58px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.sunday {
+  position: absolute;
+  top: 2036px;
+  left: 439px;
+}
+.checkboxOutline7,
+.unavailableContainer {
+  position: absolute;
+  top: 2039px;
+  left: 397px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.unavailableContainer {
+  top: 2025px;
+  left: 600px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-400);
+  width: 320px;
+  height: 58px;
+  color: var(--color-black);
+}
+.featureRequest {
+  text-decoration: underline;
+  color: var(--color-gold);
+}
+.bookingsIsCurrentlyContainer {
+  position: absolute;
+  top: 31px;
+  left: 53px;
+}
+.bookingsIsCurrentlyInBetaWrapper {
+  position: absolute;
+  top: 1138px;
+  left: 348px;
+  background-color: var(--color-whitesmoke-200);
+  width: 1092px;
+  height: 87px;
+  overflow: hidden;
+  font-size: var(--font-size-2xl);
+}
+.timezoneThisIs {
+  position: absolute;
+  top: 1244px;
+  left: 405px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-dimgray-300);
+}
+.general,
+.generalWrapper {
+  position: absolute;
+  top: 19px;
+  left: 133px;
+}
+.generalWrapper {
+  top: 208px;
+  left: 0;
+  background-color: var(--color-ivory);
+  border-right: 8px solid var(--color-gold);
+  box-sizing: border-box;
+  width: 348px;
+  height: 71px;
+  overflow: hidden;
+}
+.blockings {
+  position: absolute;
+  top: 19px;
+  left: 125px;
+}
+.blockingsWrapper {
+  position: absolute;
+  top: 308px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 348px;
+  height: 71px;
+  overflow: hidden;
+}
+.bookings,
+.bookingsWrapper {
+  position: absolute;
+  top: 19px;
+  left: 126px;
+}
+.bookingsWrapper {
+  top: 408px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 348px;
+  height: 71px;
+  overflow: hidden;
+}
+.text {
+  position: absolute;
+  top: 57px;
+  left: 9px;
+}
+.accountSettings1 {
+  position: absolute;
+  top: 25px;
+  left: 63px;
+  font-size: var(--font-size-11xl);
+}
+.settings1Icon,
+.textParent {
+  position: absolute;
+  top: 27px;
+  left: 15px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.textParent {
+  top: 61px;
+  left: 18px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 309px;
+  height: 88px;
+  font-size: var(--font-size-xs);
+}
+.accountSettings,
+.frameParent {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.frameParent {
+  position: absolute;
+  top: 130px;
+  left: 0;
+  box-shadow: 8px 4px 4px rgba(0, 0, 0, 0.02);
+  width: 348px;
+  height: 920px;
+}
+.accountSettings {
+  width: 100%;
+  position: relative;
+  height: 2221px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-khula);
+}
